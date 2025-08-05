@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_ID_SPOTIFY_AQUI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="380" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="380" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 💬 Me encontre por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/anna-bittencourt-25b490208](https://www.linkedin.com/in/anna-bittencourt-25b490208))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-bittencourt-25b490208)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bittencourtanna19@gmail.com)
 [![Currículo](https://img.shields.io/badge/CV-Visualizar-4B0082.svg?&style=for-the-badge)](https://drive.google.com/file/d/1RZs0GCe6L20hZ7B2XqqiLEop01lFBN4F/view?usp=sharing)
 
