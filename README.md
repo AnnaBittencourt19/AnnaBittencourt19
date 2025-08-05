@@ -4,10 +4,6 @@
   Estudante de Engenharia de Software | Apaixonada por IA, dados e resolver problemas de verdade com tecnologia.
 </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="380" />
-</p>
-
 ---
 
 ## Sobre mim
@@ -34,7 +30,7 @@
 
 ## 🎧 Spotify Now Playing
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&redirect=true)
 
 > Usando: [`spotify-github-profile`](https://github.com/kittinan/spotify-github-profile)  
 > 🔄 Endpoint atualizado: `https://spotify-github-profile.kittinanx.com`
