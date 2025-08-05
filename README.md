@@ -32,9 +32,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&redirect=true)
 
-> Usando: [`spotify-github-profile`](https://github.com/kittinan/spotify-github-profile)  
-> 🔄 Endpoint atualizado: `https://spotify-github-profile.kittinanx.com`
-
 ---
 
 ## 💬 Me encontre por aí
