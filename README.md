@@ -30,7 +30,11 @@
 
 ## 🎧 Spotify Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile" />
+  </a>
+</p>
 
 ---
 
