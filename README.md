@@ -58,6 +58,4 @@
 > “Sou movida pela vontade de aprender, construir e transformar.”
 
 
-![snake gif](https://github.com/AnnaBittencourt19/AnnaBittencourt19/blob/output/github-contribution-grid-snake.svg)
-
 
