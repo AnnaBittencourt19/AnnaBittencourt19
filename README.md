@@ -35,8 +35,9 @@ Apaixonada por IA, dados e tecnologia.
 
 ---
 ## 📊 Linguagens
+
 <p align="center">
-  [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaBittencourt19&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaBittencourt19&theme=tokyonight" />
 </p>
 
 ## 🎧 Spotify Now Playing
@@ -52,9 +53,7 @@ Apaixonada por IA, dados e tecnologia.
 ## 💬 Me encontre por aí
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-bittencourt-25b490208)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bittencourtanna19@gmail.com)
-
 [![Currículo](https://img.shields.io/badge/CV-Visualizar-4B0082.svg?&style=for-the-badge)](https://drive.google.com/file/d/1RZs0GCe6L20hZ7B2XqqiLEop01lFBN4F/view?usp=sharing)
 
 ---
