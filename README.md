@@ -10,9 +10,7 @@ Estudante de Engenharia de Software | Apaixonada por IA, dados e resolver proble
 
 Sou Anna, estudante de Engenharia de Software no **Inatel**.  
 
-Apaixonada por **IA, dados e tecnologia**.  
-
-Curiosa, criativa e sempre aprendendo, experimentando e **errando bonito no processo**.
+Apaixonada por IA, dados e tecnologia.  
 
 ---
 
@@ -40,9 +38,7 @@ Curiosa, criativa e sempre aprendendo, experimentando e **errando bonito no proc
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=tokyonight" 
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AnnaBittencourt19&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
