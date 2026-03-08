@@ -34,13 +34,11 @@ Apaixonada por IA, dados e tecnologia.
 ![MicroPython](https://img.shields.io/badge/MicroPython-000000.svg?&style=for-the-badge&logo=micropython&logoColor=white)
 
 ---
-
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AnnaBittencourt19&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🎧 Spotify Now Playing
