@@ -41,7 +41,7 @@ Curiosa, criativa e sempre aprendendo, experimentando e **errando bonito no proc
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabittencourt&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=tokyonight" 
   />
 </p>
 
