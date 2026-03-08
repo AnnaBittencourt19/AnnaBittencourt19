@@ -21,16 +21,6 @@ Curiosa, criativa e sempre aprendendo, experimentando e errando bonito no proces
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black)
 ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?&style=for-the-badge&logo=espressif&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-000000.svg?&style=for-the-badge&logo=micropython&logoColor=white)
-
----
-## 💻 Linguagens Mais Usadas
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=dracula&langs_count=10&hide_title=false" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 ## 🎧 Spotify Now Playing
 <p align="center">
