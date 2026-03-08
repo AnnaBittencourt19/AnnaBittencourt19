@@ -35,8 +35,9 @@ Apaixonada por IA, dados e tecnologia.
 
 ---
 ## 📊 Linguagens
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaBittencourt19&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaBittencourt19&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</p>
 
 ## 🎧 Spotify Now Playing
 
