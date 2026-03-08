@@ -37,6 +37,16 @@ Curiosa, criativa e sempre aprendendo, experimentando e **errando bonito no proc
 
 ---
 
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabittencourt&layout=compact&theme=tokyonight" 
+  />
+</p>
+
+---
+
 ## 🎧 Spotify Now Playing
 
 <p align="center">
