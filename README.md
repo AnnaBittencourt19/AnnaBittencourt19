@@ -17,7 +17,7 @@ Apaixonada por IA, dados e tecnologia.
 ## 🎯 Hobbies
 
 - Passear com a Fifi 🐶  
-- Sudoku 🧩  
+- Sudoku (fácil por favor kkkkk)🧩  
 - Ler 📖  
 - Academia 💪  
 
