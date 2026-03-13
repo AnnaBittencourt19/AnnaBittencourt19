@@ -35,7 +35,9 @@ Apaixonada por IA, dados e tecnologia.
 ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?&style=for-the-badge&logo=espressif&logoColor=white)
 
 </p>
+
 ---
+
 ## 📊 Linguagens
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=dracula" />
