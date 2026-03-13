@@ -39,8 +39,12 @@ Apaixonada por IA, dados e tecnologia.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=dracula" />
 </p>
 
-## 🎧 Spotify Now Playing
+## 🔥 Streak de commits
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AnnaBittencourt19&theme=dracula&hide_border=true" />
+</p>
 
+## 🎧 Spotify Now Playing
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fqxq7p4uhvt02vpcjleto53nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
