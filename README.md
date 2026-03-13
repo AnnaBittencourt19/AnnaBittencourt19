@@ -25,15 +25,13 @@ Apaixonada por IA, dados e tecnologia.
 
 ## 📚 Atualmente estudando
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![ESP32](https://img.shields.io/badge/ESP32-000000.svg?&style=for-the-badge&logo=espressif&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP32-000000.svg?&style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ---
