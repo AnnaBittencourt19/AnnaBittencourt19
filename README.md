@@ -24,6 +24,7 @@ Apaixonada por IA, dados e tecnologia.
 ---
 
 ## 📚 Atualmente estudando
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +34,7 @@ Apaixonada por IA, dados e tecnologia.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![ESP32](https://img.shields.io/badge/ESP32-000000.svg?&style=for-the-badge&logo=espressif&logoColor=white)
 
+</p>
 ---
 ## 📊 Linguagens
 <p align="center">
