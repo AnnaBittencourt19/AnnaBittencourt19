@@ -36,12 +36,7 @@ Apaixonada por IA, dados e tecnologia.
 ---
 ## 📊 Linguagens
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaBittencourt19&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=AnnaBittencourt19&theme=dracula" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnaBittencourt19&theme=dracula&utcOffset=-3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBittencourt19&layout=compact&theme=dracula" />
 </p>
 
 ## 🎧 Spotify Now Playing
